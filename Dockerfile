@@ -1,4 +1,4 @@
-FROM redis:3.2
+FROM redis:5.0
 
 MAINTAINER Will Wright <will@magesmith.com>
 
