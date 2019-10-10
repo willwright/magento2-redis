@@ -1,6 +1,9 @@
 # Redis for Magento2
 __THIS IS NOT FOR PRODUCTION USE__
 
+## Magento Version Support
+* 2.3
+
 ## Example Usage
 `docker-compose.yaml`
 ```
