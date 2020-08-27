@@ -3,6 +3,7 @@ __THIS IS NOT FOR PRODUCTION USE__
 
 ## Magento Version Support
 * 2.3
+* 2.4
 
 ## Example Usage
 `docker-compose.yaml`
