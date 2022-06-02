@@ -2,8 +2,8 @@
 __THIS IS NOT FOR PRODUCTION USE__
 
 ## Magento Version Support
-* 2.3
-* 2.4
+* 2.4.4
+* 2.4.5
 
 ## Example Usage
 `docker-compose.yaml`
@@ -22,7 +22,7 @@ __THIS IS NOT FOR PRODUCTION USE__
 `docker run wwright/magento2-redis redis-server /etc/redis/6379-redis-cache.conf`
 
 ## Documentation
-[Redis 5.0.x](https://hub.docker.com/_/redis)
+[Redis 6.2.x](https://hub.docker.com/_/redis)
 
 ## Defaults
 
